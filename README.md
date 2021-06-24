@@ -2,4 +2,4 @@
 
 
 - 🌱 C | C++ | Python && Tech
-- 📫 [Gmail](maharshi.pandya2002@gmail.com)
+- 📫 [Gmail](mailto:maharshi.pandya2002@gmail.com)
